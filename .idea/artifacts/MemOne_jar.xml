@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MemOne:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MemOne_jar</output-path>
+    <root id="archive" name="MemOne.jar">
+      <element id="module-output" name="MemOne" />
+    </root>
+  </artifact>
+</component>
